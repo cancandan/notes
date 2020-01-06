@@ -17,3 +17,6 @@ $$
 $$
 x = \frac{- b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NDk5MjI0NDddfQ==
+-->
